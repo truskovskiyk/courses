@@ -35,6 +35,19 @@ def submit_qlearning2(rewards, email, token):
     grader.submit(email, token)
 
 
+def submit_qlearning12(rewards, rewards2, email, token):
+    flag1 = np.mean(rewards[-10:])
+
+    grader = grading.Grader("XbjcGd7xEeeDzRKutDCmyA")
+    grader.set_answer("5NB4z", flag1)
+
+    flag2 = np.mean(rewards2[-10:])
+    grader.set_answer("CkyJ4", flag2)
+
+
+    grader.submit(email, token)
+
+
 def submit_sarsa(rewards_ql, rewards_sarsa, email, token):
     flag1 = np.mean(rewards_ql[-100:])
     flag2 = np.mean(rewards_sarsa[-100:])
