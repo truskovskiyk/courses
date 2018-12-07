@@ -19,7 +19,11 @@ scipy==1.0.1
 seaborn==0.8.1
 sklearn==0.0
 tensorboard==1.7.0
-tensorflow-gpu==1.7.0
+tensorflow==1.7.0
 tqdm==4.19.9
 Theano==0.9.0
 pymc3==3.2
+GPy==1.9.6
+xgboost==0.81
+plotly==3.4.2
+prompt-toolkit==1.0.15
