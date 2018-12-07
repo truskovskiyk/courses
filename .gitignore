@@ -101,3 +101,5 @@ ENV/
 .mypy_cache/
 week4_approx/videos/
 .DS_Store
+bayesian-methods-in-machine-learning/final_project/CelebA_VAE_small_8.h5
+.idea/
