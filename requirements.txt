@@ -27,3 +27,5 @@ GPy==1.9.6
 xgboost==0.81
 plotly==3.4.2
 prompt-toolkit==1.0.15
+GPyOpt==1.2.5
+jupyter-contrib-nbextensions==0.5.1
