@@ -7,3 +7,6 @@ week 1:
 5. n-grams
 6. https://arxiv.org/abs/1512.08183
 7. https://paperswithcode.com/sota/sentiment-analysis-imdb
+8. https://arxiv.org/abs/0902.2206
+9. https://arxiv.org/abs/1408.5882
+10. https://arxiv.org/abs/1509.01626
